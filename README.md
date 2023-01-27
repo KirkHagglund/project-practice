@@ -1,2 +1,5 @@
-# project-practice
-Setting up a repo to practice collaboration
+# Project Practice
+
+## Description
+
+In this repo, Shayne, Nav and myself are collaborating on a project together!
